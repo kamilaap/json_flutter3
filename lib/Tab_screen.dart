@@ -302,10 +302,10 @@ class ProfilTab extends StatefulWidget {
 }
 
 class _ProfilTabState extends State<ProfilTab> {
-  String _fullName = 'Raihan Alif';
-  String _dateOfBirth = '29 Januari 2049';
-  String _email = 'raihanalifp@gmail.com';
-  String _address = 'Jl. Kebon Jeruk No. 3';
+  String _fullName = 'Kamila Putri Herlambang';
+  String _dateOfBirth = '12 Januari 2007';
+  String _email = 'kp.herlambangp@gmail.com';
+  String _address = 'Kp. Lebak Nangka';
   String _class = 'XI-PPLG 2';
 
   @override
